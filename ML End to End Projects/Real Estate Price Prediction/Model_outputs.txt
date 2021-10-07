@@ -1,0 +1,36 @@
+Real Estate Price Predictor
+
+Output of different Models : 
+
+1) Random Forest Regressor - 
+
+Mean actual value : 23.380434782608692 predicted values : 23.269847826086956
+StdDeviation actual value : 23.380434782608692 and the predicted values : 23.269847826086956
+RMSE : 2.9311298348411086
+
+2) KNN Regressor - 
+
+Mean actual value : 23.380434782608692 predicted values : 22.757608695652173
+StdDeviation actual value : 23.380434782608692 and the predicted values : 22.757608695652173
+RMSE : 4.6603729557790246
+
+3) SVM Regressor - 
+
+Mean actual value : 23.380434782608692 predicted values : 22.30048071949056
+StdDeviation actual value : 23.380434782608692 and the predicted values : 22.30048071949056
+RMSE : 5.715376591901727
+
+4) Multiple Regression - 
+
+Mean actual value : 23.380434782608692 predicted values : 22.910536310936006
+StdDeviation actual value : 23.380434782608692 and the predicted values : 22.910536310936006
+RMSE : 5.001834639636283
+
+
+
+Final Model Testing [Model dumped : Random Forest Regressor]- 
+
+Mean actual value : 22.533333333333335 predicted values : 23.251333333333328
+StdDeviation actual value : 8.177057335415148 and the predicted values : 7.843237830972781
+RMSE : 4.313855820401941
+
